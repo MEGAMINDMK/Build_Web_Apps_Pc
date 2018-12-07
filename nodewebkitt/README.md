@@ -7,7 +7,7 @@
 6.create a website in html<br>
 7.create a file name package.json
 add the follwoing to it<br>
-<code
+```
 {
   
 "main"  : "index.html",
@@ -52,7 +52,8 @@ add the follwoing to it<br>
 }
 
 }
-</code><br>
+```
+<br>
 8.save it<br>
 9.add index.html and package.json to app.zip<br>
 10.now rename app.zip to app.nw<br>
