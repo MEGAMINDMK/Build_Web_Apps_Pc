@@ -7,7 +7,7 @@
 6.create a website in html<br>
 7.create a file name package.json
 add the follwoing to it<br>
-```
+```js
 {
   
 "main"  : "index.html",
