@@ -1,4 +1,4 @@
-How to create apps
+# How to create apps
 1.download nw from releases
 2.move nw folder to C:\Users\urusernamegoeshere\app\nw
 3.download node.js
@@ -7,6 +7,7 @@ How to create apps
 6.create a website in html
 7.create a file name package.json
 add the follwoing to it
+<code>
 {
   
 "main"  : "index.html",
@@ -51,6 +52,7 @@ add the follwoing to it
 }
 
 }
+</code>
 8.save it
 9.add index.html and package.json to app.zip
 10.now rename app.zip to app.nw
@@ -61,6 +63,6 @@ an ur apps is ready
 
 to clearout some mess make a new folder on desktop
 and copy the following filenames to new folder
-https://i.imgur.com/MVjD8pp.jpg
+
 <a href="https://imgbb.com/"><img src="https://imgur.com/MVjD8pp.jpg" alt="bevr" border="0"></a>
 now share ur app to ur freinds
