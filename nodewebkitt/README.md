@@ -9,48 +9,27 @@
 add the follwoing to it<br>
 ```js
 {
-  
 "main"  : "index.html",
-  
 "name"  : "app",
-  
 "description": "my first app",
-  
 "version": "0.1.0",
-  
 "keywords": [ "console", "gui" ],
-  
 "window": {
-      
 "title": "my first app",
-	  
 "theme": "dark",
-      
 "icon": "link.png",
-	  
-"frame" : false,
-	  
+"frame" : true,
 "toolbar" : false,
-	  
 "resizable": true,
-      
 "icon"    : "app/icons/128.png",
-      
 "width"   : 1000,
-     
- "height"  : 600,
-      
+"height"  : 600,
 "position": "center"
-  
 },
-  
 "webkit": 
 {
-    
 "plugin": true
-  
 }
-
 }
 ```
 <br>
