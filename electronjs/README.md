@@ -87,7 +87,8 @@ npm install --save-dev electron
 npm start // use this to check how ur app looks, then closee it to perform next step
 npm install -g electron-packager
 electron-packager . --asar --overwrite
-```<br>
+```
+<br>
 8.now u will see a new folder created in ur main folder named as your-appx86-64<br>
 9.Copy this folder to somewhere save share it with your freinds<br>
 10.share it with your freinds
