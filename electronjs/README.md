@@ -25,7 +25,7 @@ let win
 
 function createWindow () {
   // Create the browser window.
-  win = new BrowserWindow({ width: 800, height: 600 })
+  win = new BrowserWindow({ width: 800, height: 600, icon: __dirname + '/icon.ico'})
 
   // and load the index.html of the app.
   win.loadFile('index.html')
@@ -72,11 +72,13 @@ app.on('activate', () => {
 {
   "name": "your-app",
   "version": "0.1.0",
+  "description": "my first app",
+  "license": "MIT",
+  "repository": "https://github.com/MEGAMINDMK",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   }
-}
 
 ```
 6.now open node.js
