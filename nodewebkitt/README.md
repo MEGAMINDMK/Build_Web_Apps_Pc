@@ -21,7 +21,6 @@ add the follwoing to it<br>
 "frame" : true,
 "toolbar" : false,
 "resizable": true,
-"icon"    : "app/icons/128.png",
 "width"   : 1000,
 "height"  : 600,
 "position": "center"
