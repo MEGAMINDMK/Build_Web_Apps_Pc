@@ -1,7 +1,7 @@
 # How to create apps
 1.create a folder at path C:\Users\urusernamegoeshere\your-app<br>
-2.now create 3 files in it<br>
-<a href="https://imgbb.com/"><img src="https://imgur.com/FaKMiTq.jpg" alt="bevr" border="0"></a><br>
+2.now create 4 files in it<br>
+<a href="https://imgbb.com/"><img src="https://imgur.com/D9QpLgV.jpg" alt="bevr" border="0"></a><br>
 3.in index.html type<br>
 ```html
 <!DOCTYPE html>
