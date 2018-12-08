@@ -91,6 +91,6 @@ npm install -g electron-packager
 electron-packager . --asar --overwrite
 ```
 <br>
-8.now u will see a new folder created in ur main folder named as your-appx86-64<br>
+8.now u will see a new folder created in ur main folder named as your-app-win32-x64<br>
 9.Copy this folder to somewhere save share it with your freinds<br>
 10.share it with your freinds
