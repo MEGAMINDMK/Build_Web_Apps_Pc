@@ -79,6 +79,7 @@ app.on('activate', () => {
   "scripts": {
     "start": "electron ."
   }
+}
 
 ```
 6.now open node.js
